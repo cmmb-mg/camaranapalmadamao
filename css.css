@@ -1,0 +1,12 @@
+button{
+  width:100%;
+  border: 0px solid #FFFF;
+  border-radius: 20px;
+  background-color: #004aad;
+  max-width: 90px; max-height: 90px;
+  min-width: 30px; min-height: 30px;
+}
+
+img{
+  transform: translate(0%, 0%);
+}
